@@ -1,4 +1,4 @@
-# İl Kategori Gösterici Uygulaması
+# Örnek Filtreleme Projesi
 
 Bu basit uygulama, bir şehir ve kategori seçimi ile ilişkilendirilmiş verileri gösteren bir Tkinter GUI uygulamasıdır.
 
